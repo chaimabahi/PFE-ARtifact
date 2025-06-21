@@ -1,0 +1,61 @@
+name: ARtifact
+description: A Flutter authentication app with theming and localization.
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.17.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  flutter_localizations:
+    sdk: flutter
+  
+  # Firebase
+  firebase_core: ^3.12.0
+  firebase_auth: ^5.5.0
+  google_sign_in: ^6.2.2
+  firebase_database: 11.3.5
+
+
+  http: ^1.1.0
+  
+  # State Management
+  provider: ^6.0.5
+  
+  # Storage
+  shared_preferences: ^2.2.0
+  
+  # UI
+  cupertino_icons: ^1.0.5
+  cloud_firestore: ^5.6.6
+  external_app_launcher: ^4.0.3
+  flutter_stripe: 10.0.0
+  cached_network_image: ^3.2.3
+  cloudinary_public: ^0.23.1
+  image_picker: ^0.8.6
+  lottie: ^3.0.0
+  url_launcher: ^6.2.5
+  intl: ^0.19.0
+  firebase_messaging: ^15.2.5
+  fluttertoast: ^8.2.8
+  font_awesome_flutter: ^10.7.0
+  percent_indicator: ^4.2.3
+  carousel_slider: ^5.0.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^2.0.2
+
+flutter:
+  uses-material-design: true
+  
+  assets:
+    - assets/l10n/
+    - assets/images/
+    - assets/images/py2.jpg
+    - assets/images/py3.jpg
+    - assets/animations/guy.json
+    - assets/flags/

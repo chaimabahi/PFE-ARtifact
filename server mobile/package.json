@@ -1,0 +1,20 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@emailjs/nodejs": "^5.0.2",
+    "cors": "^2.8.5",
+    "express": "^5.1.0",
+    "nodemailer": "^7.0.3",
+    "stripe": "^18.0.0"
+  }
+}
