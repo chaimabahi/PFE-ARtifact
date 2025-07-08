@@ -24,8 +24,3 @@ L’objectif est de créer une expérience immersive en combinant **Unity** avec
 - **C#** – scripting côté Unity
 - **Android Studio / Xcode** – pour le build mobile
 
-### Étapes
-
-1. Cloner ce dépôt :
-   ```bash
-   git clone https://github.com/ton-utilisateur/ton-projet.git
