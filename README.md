@@ -27,5 +27,4 @@ L’objectif principal est de rapprocher le grand public de la culture tunisienn
 - **C#** – scripting côté Unity
 - **Android Studio** – pour le build et le développement mobile
 
-## ⚙️ Installation
 
