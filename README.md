@@ -20,7 +20,7 @@ L’objectif est de créer une expérience immersive en combinant **Unity** avec
 
 - **Unity 3D** – moteur principal pour le rendu AR
 - **Vuforia / AR Foundation** – SDK de réalité augmentée
-- **Flutter** *(optionnel)* – interface mobile multiplateforme
+- **Flutter** – interface mobile 
 - **C#** – scripting côté Unity
-- **Android Studio / Xcode** – pour le build mobile
+- **Android Studio / Xcode** – pour le build et le développement mobile
 
