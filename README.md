@@ -1,4 +1,4 @@
-# 🏛️ Golden Medina - Projet de Réalité Augmentée (ARtifact)
+# 🏛️ ARtifact - Projet de Réalité Augmentée
 
 > 🎓 Projet de Fin d’Études – ISET Nabeul 2025  
 > 🏅 Note obtenue : 18/20  
