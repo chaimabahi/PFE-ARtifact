@@ -6,7 +6,7 @@
 
 ## 📌 À propos
 
-**Golden Medina** est un projet de réalité augmentée (AR) conçu pour promouvoir et valoriser le patrimoine culturel tunisien.  
+**ARtifact** est un projet de réalité augmentée (AR) conçu pour promouvoir et valoriser le patrimoine culturel tunisien.  
 En combinant **technologies immersives** et **design interactif**, ce projet permet aux utilisateurs de découvrir des sites historiques et objets culturels tunisiens à travers une expérience visuelle enrichie via leur smartphone.
 
 L’objectif principal est de rapprocher le grand public de la culture tunisienne en rendant son accès plus ludique et éducatif, notamment pour les jeunes générations.
